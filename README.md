@@ -68,7 +68,7 @@ The script launches a local Flask server and opens a browser window requesting l
 ## 🧪 How to Run
 
 ```bash
-python driver_drowsiness_mediapipe.py
+python DriverDrowsinessDetection.py
 ```
 
 > Press `q` to exit the webcam window.
